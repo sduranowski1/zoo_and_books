@@ -19,7 +19,7 @@ This project is a Virtual Zoo API built with Symfony and API Platform. The syste
 
 ## Project Structure
 ```
-project-root/
+1_zoo_api/
 ├── config/
 │   ├── bundles.php
 │   ├── packages/
