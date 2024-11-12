@@ -114,7 +114,7 @@ This project is a Virtual Zoo API built with Symfony and API Platform. The syste
    - POST /api/tiger/{id}/eat with JSON payload:
    ```json
    {
-   "foodType": "meat"
+       "foodType": "meat"
    }
    ```
 ## Sample Requests
